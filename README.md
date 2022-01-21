@@ -1,5 +1,4 @@
 # SkyExercise
-Exercício Sky
+Sky Exercise
 
-Feito nativo em Swift, sem uso de bibliotecas externas 
-Aplicativo teste para processo seletivo da SKY pela Accenture
+Native iOS project without the usage of externals libraries. App built for the Sky employment process though Accenture
